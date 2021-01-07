@@ -1,0 +1,5 @@
+A go-cart initially at rest. Accelerates downhill at a rate of 3.0 m/s^2 for 8.0 s. Calculate the cart's speed 8.0 s after it starts.
+A javelin is thrown horizontally at 16.0 m/s from the top of a tower. It landed 49.2 m away from the base of the tower. Calculate the height of the tower.
+Determine the vector sum of the following displacements: d1 = 90.0 m North; d2 = 30.0 m West; d3 = 40.0 m 60.0 degrees North of West; d4 = 50.0 m 30.0 degrees South of West. (In Cartisian Reference)
+An airplane pilot wants to travel due north but an east wind is blowing at 60 km/h. Her airplane can travel at 200 km/h in calm air. Determine what her heading must be if she is to travel directly north. (In Cartisian Reference)
+During the 1988 Winter Olympics in Calgary the brakeman of a two-man bobsled team slows the speed of his sled from 24.8 m/s to 12.2 m/s. If the brakes are applied for 1.4 s determine the magnitude of the acceleration.

@@ -1,0 +1,5 @@
+Two lead balls (each with a mass of 4.00 kg) are placed with their centres 6.26 m apart. Determine the gravitional force of attraction between them.
+A 450 kg satellite orbits a planet from a height of 34000 km. The circumference of the planet is 120000 km and the satellite requires 8.9 h to complete one orbit. Determine the mass of the planet.
+In the simplified Bohr Model of the hydrogen atom. An electron (9.11 x 10^-11) circles the proton at a uniform speed of 2.2 x 10^6 m/s with an orbital radius of 5.43 x 10^-11 m. Determine the magnitude of the electron's centripetal acceleration.
+From the previous question determine the magnitude if the electron's centripetal force.
+A 25.0 kg girl climbs onto a merry-go-round and has a friend push until her speed is 5.20 m/s. She holds on tight to the safety rails near the outside of the merry-go-round 1.25 m from the centre. Determine the magnitude of the centripetal accerelation acting on the girl.

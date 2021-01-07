@@ -1,0 +1,5 @@
+An 80.0 kg man is standing on a scale in an elevator while the elevator accelerates downward at the rate of 4.00 m/s^2. Determine man's apparent weight as shown on the scale.
+A motorcycle and its rider have a combined mass of 150 kg. Determine the force required to increase the bike's speed from 10.0 m/s to 30.0 m/s in a distance of 230 m.
+From the centre of a 10 kg ball one force of 5.0 N pulls north-east and another of 7.0 N pulls south-west. Calculate the resulting acceleration.
+A cord passing over a frictionless pulley has a 3.00 kg mass hanging on one end and an 8.00 kg mass hanging on the other. Determine the tension in the cord.
+A frictionless block (7.0 kg) is set on a table and is connected to another block (5.0 kg) hanging off the table via a frictionless pulley system. Determine the magnitude of the acceleration of each mass.
