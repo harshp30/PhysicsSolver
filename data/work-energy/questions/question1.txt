@@ -1,0 +1,5 @@
+A force of 600 N is applied to a box by an attached rope. As a result the box is moved 15 m across a rough level floor at constant velocity. The rope makes an angle of 46 degrees with the floor. Determine the work done on the box.
+A rifle fires a 10.0 g steel bullet with a muzzle velocity of 400 m/s into a block of wood. The bullet penetrates the wood a distance of 12.0 cm before coming to rest. Determine the average frictional force between the bullet and the wood.
+A 1.00 kg pendulum is released from a certain height. At the lowest point in its swing the speed of the bob is 2.3 m/s. Calculate the vertical distance from which the pendulum is released.
+A 47 kg student climbs a set of stairs. The distance along the stairs is 4.5 m and the vertical rise is 3.0 m. Calculate the work done against gravity by the student.
+A 50 kg student runs up a flight of stairs in 10.0 s. Determine the power developed by this student if the vertical distance travelled is 3.0 m.

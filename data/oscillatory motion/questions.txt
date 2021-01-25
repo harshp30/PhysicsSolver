@@ -1,0 +1,5 @@
+A simple pendulum has a frequency of oscillation of 0.450 Hz when its length is 80.0 cm. Use the data from the pendulum to determine the value for accerelation due to gravity.
+A 500 g mass is attached to the end of spring that is vertically suspended. The mass is displaced and the system begins to oscillate with frequency of 0.909 Hz. Determine the spring constant.
+The wheels of a certain bicycle have a diameter of 66.0 cm. Determine the time required for the wheels to make 20 rotations when the frequency of the wheels is 0.50 Hz.
+A 500 g mass is suspended from a spring connected to a ceiling. The mass completes 10 oscillations in a total time of 9.1 s. Determine the spring constant.
+A 0.600 m long pendulum is used to determine the accerelation due to gravity on a distant planet. If 20 complete oscillations are found to require 35.5 s. Determine the accerelation.
