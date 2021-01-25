@@ -1,0 +1,5 @@
+Two waves (each with a wavelength of 2.0 m) meet in phase. Determine the amplitude of the resultant wave if the first wave's amplitude is 5.0 cm and the second wave's amplitude is 4.0 cm.
+An earthquake produces longitudinal waves that move through rock with a frequency of 15 Hz and have wavelengths of 682 m. Determine how long it will take for these waves to travel 30 km.
+Students take photographs of waves at the boundaries in water tank. They analyze the photographs and measure several sets of wave crests. The horizontal distance from a waves crest to trough is measured as 12. 5 cm. If the speed of the wave generator that makes each wave was set 2.85 m/s. Determine the frequency of the waves.
+From the previous question determine the number of waves that would strike the side of the water tank in exactly 1.00 minute.
+Determine the frequency of a sound wave with a wavelength of 5.0 m and a speed of 330 m/s.
